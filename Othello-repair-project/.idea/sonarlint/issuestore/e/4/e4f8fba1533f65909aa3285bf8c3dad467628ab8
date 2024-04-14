@@ -1,0 +1,15 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ýçìb
+Q	java:S125"<This block of commented-out lines of code should be removed.(¼…Ðä
+V	java:S125"<This block of commented-out lines of code should be removed.(þ¾¬ùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(†ýÔÎýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÔØ¥¤ýÿÿÿÿ
+V
+java:S1854+";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ
+G
+java:S1481+",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(—úîïûÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÏåÏ­
+P	java:S1252"<This block of commented-out lines of code should be removed.(ø»ò*
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(º·’Ä
+Q	java:S1258"<This block of commented-out lines of code should be removed.(ÆÇ‡—

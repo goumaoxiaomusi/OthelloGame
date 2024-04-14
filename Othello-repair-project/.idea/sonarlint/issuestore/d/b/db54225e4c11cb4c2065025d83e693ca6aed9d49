@@ -1,0 +1,17 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É³ğ8ê …Ú•1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( “y8ê …Ú•1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âƒÌœúÿÿÿÿ
+l	java:S116	"RRename this field "XXscore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄµ–ûÿÿÿÿ
+g	java:S116
+"RRename this field "OOscore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í…ä
+s
+java:S1450
+"VRemove the "OOscore" field and declare it as a local variable in the relevant methods.(Í…ä8Â´øó–1
+x
+java:S1450	"VRemove the "XXscore" field and declare it as a local variable in the relevant methods.(ôÄµ–ûÿÿÿÿ8Õøó–1
+M
+java:S1068	"+Remove this unused "XXscore" private field.(ôÄµ–ûÿÿÿÿ8×øó–1
+H
+java:S1068
+"+Remove this unused "OOscore" private field.(Í…ä8Å´øó–1

@@ -1,0 +1,5 @@
+ss.othello.client
+ss.othello.commonUtil
+ss.othello.game
+ss.othello.gui
+ss.othello.server

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0e11de8-b84a-4127-92e8-22912642de53" name="Changes" comment="fixed most of the stuff">
+      <change beforePath="$PROJECT_DIR$/red-13/file/nameAndPassword" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/file/nameAndPassword" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/file/nameAndScore" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/file/nameAndScore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/client/ClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/client/ClientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/client/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/client/Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/client/ListenerContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/client/ListenerContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Decision.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Decision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Mission.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Mission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Protocol.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Protocol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Scores.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Scores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/commonUtil/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/AbstractPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/AbstractPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/ComputerPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/ComputerPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/EasyAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/EasyAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/HardAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/HardAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/HumanPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/HumanPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/OthelloGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/OthelloGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/OthelloMove.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/game/OthelloMove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseModeGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/ChooseOpponentGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithComputerGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/PlayWithPlayerGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/StartPageGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/StartPageGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/StartPageGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/StartPageGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/WaitingGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/WaitingGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/WaitingGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/WaitingGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/WaitingGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/gui/WaitingGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/server/ClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/server/ClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/server/GameRoomsContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/server/GameRoomsContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/server/ServerFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/server/ServerFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/out/production/Othello-repair-project/ss/othello/server/notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/client/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/client/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/client/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/client/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/client/ListenerContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/client/ListenerContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Decision.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Decision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Mission.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Mission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Protocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Protocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Scores.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Scores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/commonUtil/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/AI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/AbstractPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/AbstractPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/ComputerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/ComputerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/EasyAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/EasyAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/HardAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/HardAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/HumanPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/OthelloGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/OthelloGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/OthelloMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/OthelloMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/gui/ChooseModeGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/gui/ChooseModeGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/gui/ChooseOpponentGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/gui/ChooseOpponentGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/gui/GUIContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/gui/PlayWithComputerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/gui/PlayWithComputerGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/gui/PlayWithPlayerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/gui/PlayWithPlayerGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/gui/StartPageGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/gui/StartPageGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/gui/WaitingGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/gui/WaitingGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/server/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/server/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/server/GameRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/server/GameRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/server/GameRoomsContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/server/GameRoomsContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/server/Old.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/server/ServerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/red-13/src/ss/othello/server/ServerFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red-13/src/ss/othello/server/notes" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/red-13" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RwMvq7hrsA8Ue4DJtjcel4vO6V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UT-First Year/module 2/Othello-repair-project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UT-First Year\module 2\Othello-repair-project\red-13\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartPageGUI">
+    <configuration name="OthelloTUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss.othello.game.OthelloTUI" />
+      <module name="Othello-repair-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss.othello.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayWithPlayerGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss.othello.gui.PlayWithPlayerGUI" />
+      <module name="Othello-repair-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss.othello.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss.othello.server.ServerFrame" />
+      <module name="Othello-repair-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss.othello.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartPageGUI" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss.othello.gui.StartPageGUI" />
+      <module name="Othello-repair-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss.othello.gui.EnterPlayerNameGUI" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerFrame" />
+        <item itemvalue="Application.OthelloTUI" />
+        <item itemvalue="Application.PlayWithPlayerGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0e11de8-b84a-4127-92e8-22912642de53" name="Changes" comment="" />
+      <created>1688156924088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688156924088</updated>
+      <workItem from="1688156925574" duration="692000" />
+      <workItem from="1688203770619" duration="601000" />
+      <workItem from="1688486679948" duration="247000" />
+      <workItem from="1688486937963" duration="40000" />
+      <workItem from="1688486995360" duration="5650000" />
+      <workItem from="1688641401264" duration="31204000" />
+      <workItem from="1688766026997" duration="5287000" />
+      <workItem from="1688825494394" duration="8732000" />
+      <workItem from="1688838226458" duration="17495000" />
+      <workItem from="1688902593665" duration="824000" />
+      <workItem from="1689007992057" duration="10007000" />
+      <workItem from="1689018458923" duration="91000" />
+      <workItem from="1689026910716" duration="4185000" />
+      <workItem from="1689073656464" duration="26229000" />
+      <workItem from="1689108912638" duration="9179000" />
+      <workItem from="1689147101840" duration="4307000" />
+      <workItem from="1689159414066" duration="1348000" />
+      <workItem from="1689166562169" duration="2882000" />
+      <workItem from="1689204381617" duration="9677000" />
+      <workItem from="1689220293800" duration="911000" />
+      <workItem from="1689223174791" duration="306000" />
+      <workItem from="1689232811466" duration="694000" />
+      <workItem from="1689333674117" duration="16373000" />
+      <workItem from="1689354104898" duration="17272000" />
+      <workItem from="1689379392117" duration="14197000" />
+      <workItem from="1689411482163" duration="9248000" />
+      <workItem from="1689420755208" duration="40185000" />
+      <workItem from="1689501738327" duration="35943000" />
+      <workItem from="1689597555930" duration="20777000" />
+      <workItem from="1689676300703" duration="5734000" />
+      <workItem from="1689750202143" duration="12702000" />
+    </task>
+    <task id="LOCAL-00001" summary="build a GUI for the game">
+      <created>1688708311765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688708311765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix the server problem, implement the Client part, and try to connect the client with the server over object">
+      <created>1688756496468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688756496468</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implemented the login part, updated the listener, I did a lot of stuff which I might forget some details. I basically implemented the initialization LOGIN, ALREADYLOGGEDIN. Still working on LIST, QUEUE, NEWGAME, MOVE">
+      <created>1688862114805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688862114805</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implemented the login part, updated the listener, I did a lot of stuff which I might forget some details. I basically implemented the initialization LOGIN, ALREADYLOGGEDIN. Still working on LIST, QUEUE, NEWGAME, MOVE">
+      <created>1688862148417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688862148417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix the part with login, implement the security of log in, trying to implement the part of choose a specific opponent to play the game">
+      <created>1689018528433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689018528433</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed code with the gameroom and GameRoomsContainer&#10;&#10;try to allow server to sent a game request to the another player">
+      <created>1689085230366</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689085230366</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rearrange the GUI, add waiting gui, changed the structure and logic of some code">
+      <created>1689095974528</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689095974528</updated>
+    </task>
+    <task id="LOCAL-00008" summary="I think I fixed the problem with sending request to the other person">
+      <created>1689100042842</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689100042842</updated>
+    </task>
+    <task id="LOCAL-00009" summary="I think I fixed the problem with sending request to the other person">
+      <created>1689100055305</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689100055305</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed the problem with waiting page and made some corresponding changes to the ClientHandler, ClientService, WaitingGUI. Added more Protocol to help with extended Started to work on creating new game and new GUI">
+      <created>1689160469229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689160469229</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed the problem with waiting page and made some corresponding changes to the ClientHandler, ClientService, WaitingGUI. Added more Protocol to help with extended Started to work on creating new game and new GUI">
+      <created>1689160478966</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689160478966</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Make the PlayWithPlayerGUI more appealing and functionable&#10;Trying to figure out how to send a move to the other perosn but all the codes are connected so it is half way done">
+      <created>1689213439826</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689213439826</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Make the PlayWithPlayerGUI more appealing and functionable&#10;Trying to figure out how to send a move to the other perosn but all the codes are connected so it is half way done">
+      <created>1689220309042</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689220309042</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Make the PlayWithPlayerGUI more appealing and functionable&#10;Trying to figure out how to send a move to the other perosn but all the codes are connected so it is half way done">
+      <created>1689220333930</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1689220333930</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix some bugs of sending over the move but some bugs appeared for the PlayerWithPlayerGUI and the game logic&#10;&#10;Right now it is not working">
+      <created>1689365603879</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1689365603879</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix some bugs of sending over the move but some bugs appeared for the PlayerWithPlayerGUI and the game logic&#10;&#10;Right now it is not working">
+      <created>1689365627146</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1689365627146</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Finished with the GUI of PlayWithPlayerGUI, need to work on the random player">
+      <created>1689373346977</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1689373346977</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Finishing checking and fixing the StartPageGUI">
+      <created>1689385033196</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1689385033196</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fixed some problem with the ChooseOpponentGUI and redesigned the GUI. Next step is to finish the code of rank, game over, removing from waiting list">
+      <created>1689393595706</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1689393595706</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fixed some problem with the ChooseOpponentGUI and redesigned the GUI. Next step is to finish the code of rank, game over, removing from waiting list">
+      <created>1689411489014</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689411489014</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Implemented the Easy and Hard AI, debugging it">
+      <created>1689419188219</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689419188219</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Improve the Easy and Hard AI, debugging it">
+      <created>1689420034930</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1689420034930</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add window listener to all the classes">
+      <created>1689423478582</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1689423478582</updated>
+    </task>
+    <task id="LOCAL-00024" summary="reorganized the ClientHandler">
+      <created>1689425175898</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1689425175898</updated>
+    </task>
+    <task id="LOCAL-00025" summary="reorganized the ClientHandler">
+      <created>1689425190408</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1689425190408</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix the server and image">
+      <created>1689426742137</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1689426742137</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fix the server and image">
+      <created>1689427578463</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1689427578463</updated>
+    </task>
+    <task id="LOCAL-00028" summary="found a big problem in the server and client trying to fix it">
+      <created>1689430133373</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1689430133373</updated>
+    </task>
+    <task id="LOCAL-00029" summary="found a big problem in the server and client trying to fix it">
+      <created>1689431301920</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1689431301920</updated>
+    </task>
+    <task id="LOCAL-00030" summary="restructure everything because before the client did not run on threads">
+      <created>1689460940747</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1689460940747</updated>
+    </task>
+    <task id="LOCAL-00031" summary="restructure everything because before the client did not run on threads">
+      <created>1689462650001</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1689462650001</updated>
+    </task>
+    <task id="LOCAL-00032" summary="restructure everything because before the client did not run on threads">
+      <created>1689462661022</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1689462661022</updated>
+    </task>
+    <task id="LOCAL-00033" summary="debugged the waiting page, debugged the login page, debugged the choosemode page, debugged the choose opponent page">
+      <created>1689509345759</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1689509345759</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixed the problem with waitingGUI, corresponding listener code, choose opponentGUI, choosemodeGUI. Move on to the PlayWithPlayerGUI">
+      <created>1689517176293</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1689517176293</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fixed the problem with PlayWithPlayer lOGIC">
+      <created>1689526192480</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1689526192480</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fixed the reject method">
+      <created>1689528325453</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1689528325453</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fixed most of the stuff">
+      <created>1689617633461</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1689617633461</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fixed most of the stuff">
+      <created>1689617942705</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1689617942705</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fixed most of the stuff">
+      <created>1689617949046</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1689617949046</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="build a GUI for the game" />
+    <MESSAGE value="Fix the server problem, implement the Client part, and try to connect the client with the server over object" />
+    <MESSAGE value="implemented the login part, updated the listener, I did a lot of stuff which I might forget some details. I basically implemented the initialization LOGIN, ALREADYLOGGEDIN. Still working on LIST, QUEUE, NEWGAME, MOVE" />
+    <MESSAGE value="fix the part with login, implement the security of log in, trying to implement the part of choose a specific opponent to play the game" />
+    <MESSAGE value="fixed code with the gameroom and GameRoomsContainer&#10;&#10;try to allow server to sent a game request to the another player" />
+    <MESSAGE value="rearrange the GUI, add waiting gui, changed the structure and logic of some code" />
+    <MESSAGE value="I think I fixed the problem with sending request to the other person" />
+    <MESSAGE value="Fixed the problem with waiting page and made some corresponding changes to the ClientHandler, ClientService, WaitingGUI. Added more Protocol to help with extended Started to work on creating new game and new GUI" />
+    <MESSAGE value="Make the PlayWithPlayerGUI more appealing and functionable&#10;Trying to figure out how to send a move to the other perosn but all the codes are connected so it is half way done" />
+    <MESSAGE value="Fix some bugs of sending over the move but some bugs appeared for the PlayerWithPlayerGUI and the game logic&#10;&#10;Right now it is not working" />
+    <MESSAGE value="Finished with the GUI of PlayWithPlayerGUI, need to work on the random player" />
+    <MESSAGE value="Finishing checking and fixing the StartPageGUI" />
+    <MESSAGE value="Fixed some problem with the ChooseOpponentGUI and redesigned the GUI. Next step is to finish the code of rank, game over, removing from waiting list" />
+    <MESSAGE value="Implemented the Easy and Hard AI, debugging it" />
+    <MESSAGE value="Improve the Easy and Hard AI, debugging it" />
+    <MESSAGE value="Add window listener to all the classes" />
+    <MESSAGE value="reorganized the ClientHandler" />
+    <MESSAGE value="fix the server and image" />
+    <MESSAGE value="found a big problem in the server and client trying to fix it" />
+    <MESSAGE value="restructure everything because before the client did not run on threads" />
+    <MESSAGE value="debugged the waiting page, debugged the login page, debugged the choosemode page, debugged the choose opponent page" />
+    <MESSAGE value="fixed the problem with waitingGUI, corresponding listener code, choose opponentGUI, choosemodeGUI. Move on to the PlayWithPlayerGUI" />
+    <MESSAGE value="fixed the problem with PlayWithPlayer lOGIC" />
+    <MESSAGE value="fixed the reject method" />
+    <MESSAGE value="fixed most of the stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed most of the stuff" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Othello_repair_project$StartPageGUI.ic" NAME="StartPageGUI Coverage Results" MODIFIED="1689379623802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ss.othello.gui.EnterPlayerNameGUI</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ss.othello.client"},{"l":"ss.othello.commonUtil"},{"l":"ss.othello.game"},{"l":"ss.othello.gui"},{"l":"ss.othello.server"}]

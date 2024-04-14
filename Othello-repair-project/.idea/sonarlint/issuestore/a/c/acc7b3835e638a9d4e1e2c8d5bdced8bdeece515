@@ -1,0 +1,7 @@
+
+˜
+java:S13190"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ÉÓõÁ
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(Çö–úÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

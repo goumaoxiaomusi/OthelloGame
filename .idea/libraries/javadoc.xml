@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Othello-repair-project/red-13/javadoc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Othello-repair-project/red-13/javadoc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Othello-repair-project/red-13/javadoc/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

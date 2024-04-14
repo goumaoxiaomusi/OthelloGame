@@ -1,0 +1,29 @@
+
+a	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+f
+java:S1192ä"JDefine a constant instead of duplicating this literal "         " 5 times.(Ğò£«ûÿÿÿÿ
+k
+java:S1192?"UDefine a constant instead of duplicating this literal "red-13/img/black.png" 3 times.(Á“ºÛ
+p
+java:S1192B"UDefine a constant instead of duplicating this literal "red-13/img/white.png" 3 times.(”ŠŞ§ûÿÿÿÿ
+^
+java:S1192å"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(¬Ì«Ï
+n
+java:S1192D"XDefine a constant instead of duplicating this literal "red-13/img/possible.png" 5 times.(ãöº
+t
+java:S1450%"XRemove the "mainPanel" field and declare it as a local variable in the relevant methods.(šÈŞ}8ÏÓ¸ô–1
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÿöÏÜıÿÿÿÿ
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(úé¼N
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ş„î´ûÿÿÿÿ
+T
+java:S1117|"9Rename "frame" which hides the field declared at line 39.(£¦ä´ÿÿÿÿÿ
+_
+java:S3252~"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+`
+java:S1117"=Rename "mainPanel" which hides the field declared at line 37.(„Å…şÿÿÿÿ8òÓ¸ô–1
+^
+java:S1128"<Remove this unused import 'ss.othello.client.ClientService'.(™Äòáşÿÿÿÿ8øÓ¸ô–1
+Y
+java:S1128	"<Remove this unused import 'ss.othello.server.OthelloServer'.(º¿¨ï8ùÓ¸ô–1
+I
+java:S1068%"-Remove this unused "mainPanel" private field.(šÈŞ}8úÓ¸ô–1

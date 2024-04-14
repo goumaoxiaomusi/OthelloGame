@@ -1,0 +1,19 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯èî¯
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯èî¯
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ö¦ã
+m	java:S116"SRename this field "XXPlayer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¨èüÿÿÿÿ
+h	java:S116"SRename this field "OOPlayer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‹Šå
+W
+java:S1126N"AReplace this if-then-else statement by a single return statement.(€é¥¢
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(–—ÿÂ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(µÉ§Îÿÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ıı¯ç
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(…à
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ºÓ®‰ûÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(…à
+]
+java:S1126¹"AReplace this if-then-else statement by a single return statement.(¢»´¬ıÿÿÿÿ
+Q	java:S125ş"<This block of commented-out lines of code should be removed.(µÉÄ}
+S
+java:S1117‡"<Rename "XXPlayer" which hides the field declared at line 12.(¬Ö¦ã

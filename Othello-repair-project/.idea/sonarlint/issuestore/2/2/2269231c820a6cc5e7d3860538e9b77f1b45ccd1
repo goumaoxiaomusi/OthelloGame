@@ -1,0 +1,31 @@
+
+g	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ñÌàò–1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âƒÌœúÿÿÿÿ
+c
+java:S20953"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÆíÐË
+c
+java:S2095k"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÆíÐË
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÆíÐË
+d
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(®ÛÆ«
+d
+java:S20955"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(®ÛÆ«
+d
+java:S2095m"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(®ÛÆ«
+c
+java:S2095y"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÆíÐË
+b
+java:S2095'"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ª€«&
+c
+java:S2095A"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÆíÐË
+P
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ
+P
+java:S1854O":Remove this useless assignment to local variable "result".(ÓÖº–
+A
+java:S1481O"+Remove this unused "result" local variable.(ÓÖº–
+^
+java:S1128"<Remove this unused import 'ss.othello.client.ClientService'.(™Äòáþÿÿÿÿ8žÜ¥–1
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8žÜ¥–1

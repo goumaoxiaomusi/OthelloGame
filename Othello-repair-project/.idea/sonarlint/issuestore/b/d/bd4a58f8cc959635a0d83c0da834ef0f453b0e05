@@ -1,0 +1,21 @@
+
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+w
+java:S1192Y"\Define a constant instead of duplicating this literal "red-13/file/nameAndPassword" 3 times.(á×»‰øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚°ìĞûÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ãê»£ùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z
+java:S2147L"DCombine this catch with the one at line 74, which has the same body.(ıàÑÎ
+V	java:S125H"<This block of commented-out lines of code should be removed.(ŸùÕ‹ÿÿÿÿÿ
+M
+java:S1135G"2Complete the task associated to this TODO comment.(ÑÆ±Òûÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(ó¨¯‰üÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(¥éÉ
+L
+java:S1128"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ

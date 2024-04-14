@@ -1,0 +1,12 @@
+
+J
+java:S3740#"/Provide the parametrized type for this generic.(ûßÎØúÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä²í¢øÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ä²í¢øÿÿÿÿ
+3
+java:S2119$"Save and re-use this "Random".(¼İÅf
+Y
+java:S1155)">Use isEmpty() to check whether the collection is empty or not.(²õæıÿÿÿÿ
+E
+java:S19054"*Remove this unnecessary cast to "Integer".(ùáÊòûÿÿÿÿ

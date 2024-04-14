@@ -1,0 +1,32 @@
+
+a	java:S112¿"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+y
+java:S1192„"bDefine a constant instead of duplicating this literal "Do you want to play another game?" 3 times.(¤„ş¹
+e
+java:S1192ƒ"IDefine a constant instead of duplicating this literal "Winner: " 3 times.(½¬Ì»üÿÿÿÿ
+
+java:S1192¨"hDefine a constant instead of duplicating this literal "Server is down, please restart the game" 5 times.(êË¥ê
+g
+java:S1192‚"KDefine a constant instead of duplicating this literal "Game Over
+" 3 times.(¨šõûøÿÿÿÿ
+b
+java:S1192r"LDefine a constant instead of duplicating this literal "The player " 4 times.(à‡¡
+_
+java:S1192c"IDefine a constant instead of duplicating this literal "specific" 3 times.(ú€£ö
+b
+java:S1192F"GDefine a constant instead of duplicating this literal "random" 6 times.(˜»ˆ€ıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(áµëÖùÿÿÿÿ
+q
+java:S1450 "[Remove the "opponentName" field and declare it as a local variable in the relevant methods.(» ÆË
+i
+java:S3776:"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(“–ış
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(÷ª¿ßşÿÿÿÿ
+d
+java:S1871—"MThis branch's code block is the same as the block for the branch on line 257.(å¥‡
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(›ú±ùÿÿÿÿ
+V
+java:S1128";Remove this unused import 'ss.othello.server.ClientOnline'.( ÓÌ´üÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ
+H
+java:S1068"2Remove this unused "lastCalledTime" private field.(‰½á˜

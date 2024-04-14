@@ -1,0 +1,16 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(úµğ²úÿÿÿÿ
+L
+java:S3740W"/Provide the parametrized type for this generic.(üÜï8ÄØ‰Õ•1
+Q
+java:S3740["/Provide the parametrized type for this generic.(»óˆ¡ùÿÿÿÿ8ÄØ‰Õ•1
+
+java:S1319W"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(üÜï8ÅØ‰Õ•1
+
+java:S1319["mThe type of "onlinePlayers" should be an interface such as "List" rather than the implementation "ArrayList".(»óˆ¡ùÿÿÿÿ8ÅØ‰Õ•1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âƒÌœúÿÿÿÿ
+Q
+java:S1128"/Remove this unused import 'ss.othello.gui.GUI'.(ÅŞô­øÿÿÿÿ8ßæúó–1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ßæúó–1

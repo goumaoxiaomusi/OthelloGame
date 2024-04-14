@@ -1,0 +1,16 @@
+
+<
+java:S1170"!Make this final field static too.(ÖÆ­Çýÿÿÿÿ
+\
+java:S1854'"ARemove this useless assignment to local variable "listOfIndexes".(îÄôðûÿÿÿÿ
+E
+java:S1481 "*Remove this unused "board" local variable.(¢ÀñÃøÿÿÿÿ
+M
+java:S1481'"2Remove this unused "listOfIndexes" local variable.(îÄôðûÿÿÿÿ
+3
+java:S2119*"Save and re-use this "Random".(¼ÝÅf
+V	java:S1251"<This block of commented-out lines of code should be removed.(ÉÏš‚øÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(‚±ãùÿÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(öò¬äýÿÿÿÿ
+E
+java:S1905G"*Remove this unnecessary cast to "Integer".(ùáÊòûÿÿÿÿ
